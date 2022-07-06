@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "IPhone XS",
+    "description": "",
+    "thumbnail": "http://www.test.com",
+    "price": 4000
+  },
+  {
+    "id": 2,
+    "name": "IPhone XR",
+    "description": "",
+    "thumbnail": "http://www.test.com",
+    "price": 400
+  },
+  {
+    "id": 3,
+    "name": "IPhone 7 Pro",
+    "description": "",
+    "thumbnail": "http://www.test.com",
+    "price": 600
+  },
+  {
+    "id": 3,
+    "name": "IPhone 5",
+    "description": "Este es un Iphone 5",
+    "thumbnail": "http://www.test.com",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "name": "IPhone 5",
+    "description": "Este es un Iphone 5",
+    "thumbnail": "http://www.test.com",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "name": "IPhone 5",
+    "description": "Este es un Iphone 5",
+    "thumbnail": "http://www.test.com",
+    "price": 100
+  },
+  {
+    "id": 4,
+    "name": "IPhone 5",
+    "description": "Este es un Iphone 5",
+    "thumbnail": "http://www.test.com",
+    "price": 100
+  },
+  {
+    "id": 5,
+    "name": "IPhone 5",
+    "description": "Este es un Iphone 5",
+    "thumbnail": "http://www.test.com",
+    "price": 100
+  },
+  {
+    "id": 6,
+    "name": "IPhone 5",
+    "description": "Este es un Iphone 5",
+    "thumbnail": "http://www.test.com",
+    "price": 100
+  },
+  {
+    "id": 7,
+    "name": "IPhone 5",
+    "description": "Este es un Iphone 5",
+    "thumbnail": "http://www.test.com",
+    "price": 100
+  },
+  {
+    "id": 8,
+    "name": "IPhone 5",
+    "description": "Este es un Iphone 5",
+    "thumbnail": "http://www.test.com",
+    "price": 100
+  }
+]
